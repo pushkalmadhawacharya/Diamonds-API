@@ -10,4 +10,17 @@ The goal: players compete to win diamond cards by bidding from their own suit; t
 4. Hardik  
 5. Yash Rijhwani  
 
+# Repo Structure
+diamonds-api/
+├─ requirements.txt
+├─ .gitignore
+├─ README.md
+└─ src/
+├─ core/
+│ ├─ ranks.py
+│ ├─ bots.py
+│ └─ game.py
+└─ api/
+├─ schemas.py
+└─ main.py
 
