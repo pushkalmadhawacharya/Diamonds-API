@@ -15,12 +15,10 @@ diamonds-api/
 ├─ requirements.txt
 ├─ .gitignore
 ├─ README.md
-└─ src/
-├─ core/
-│ ├─ ranks.py
+└─ diamonds
 │ ├─ bots.py
-│ └─ game.py
-└─ api/
-├─ schemas.py
+│ └─ core.py
+||_experiments
+|  |- run_experiments.py
 └─ main.py
 
